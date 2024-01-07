@@ -73,4 +73,5 @@ Automated Docker image builds and push to a container registry are achieved, alo
   Deploy applications to Kubernetes, ensuring scalability and efficient container management.
 ## Screenshots & Diagrams 📸📊
 
+![Alt Text](pic/pic.gif)
 
