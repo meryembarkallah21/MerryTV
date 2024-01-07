@@ -2,7 +2,7 @@
 
 ## Overview
 
-MerryTV is a DevOps school project that integrates various tools and technologies to streamline the development and deployment process. 🛠️💻 The project focuses on leveraging key tools and libraries to enhance efficiency and maintainability.
+MerryTV is a DevOps school project that integrates various tools and technologies to streamline the development and deployment process. 🛠️💻 
 
 ## Tools Used
 
