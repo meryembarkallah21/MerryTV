@@ -74,5 +74,5 @@ Automated Docker image builds and push to a container registry are achieved, alo
   
 ## Screenshots & Diagrams 📸📊
 
-![Alt Text](pic/pic.gif)
+  ![Alt Text](pic/pics.gif)
 
