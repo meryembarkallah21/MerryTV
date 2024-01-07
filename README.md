@@ -18,10 +18,6 @@ MerryTV is a DevOps school project that integrates various tools and technologie
 
 [Trivy](https://github.com/aquasecurity/trivy) is integrated to enhance container security by scanning Docker images for vulnerabilities.
 
-### Splunk
-
-[Splunk](https://www.splunk.com/) is utilized for centralized log management. The integration with Jenkins ensures efficient monitoring and analysis of logs.
-
 ### Slack
 
 [Slack](https://slack.com/) is employed for effective communication and real-time notifications. Jenkins CI app integration ensures immediate updates.
@@ -58,8 +54,23 @@ Automated Docker image builds and push to a container registry are achieved, alo
 
 ## Kubernetes Integration 🚢
 
-Kubernetes is set up for container orchestration. The Jenkins pipeline interacts with Kubernetes through the installation of Kubectl on Jenkins. Helm is used for managing Kubernetes applications. The integration includes deploying Prometheus and Grafana for monitoring, allowing customization for optimal visualization.
+- **Helm for Kubernetes Application Management:**
+  Utilize [Helm](https://helm.sh/) to simplify the management and deployment of applications on Kubernetes.
 
+- **Prometheus for Monitoring:**
+  Implement [Prometheus](https://prometheus.io/) for robust monitoring, collecting and processing real-time metrics.
+
+- **Grafana for Visualization:**
+  Leverage [Grafana](https://grafana.com/) to create interactive and customizable dashboards, providing optimal visualization of Prometheus metrics.
+
+- **Customizing Prometheus Service:**
+  Tailor the Prometheus service configuration to ensure optimal performance for collecting and storing metrics.
+
+- **Customizing Grafana Service:**
+  Fine-tune Grafana service settings to meet specific visualization requirements.
+
+- **Kubernetes Deployment:**
+  Deploy applications to Kubernetes, ensuring scalability and efficient container management.
 ## Screenshots & Diagrams 📸📊
 
 
